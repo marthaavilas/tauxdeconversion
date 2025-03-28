@@ -49,6 +49,8 @@ Ce projet vise à **prédire la probabilité de conversion des clients** dans le
 
 > Réalisé par **Martha Avila**  
 > Projet final – Data Analyst Bootcamp 2025  
-> [LinkedIn](https://www.linkedin.com/in/ton-lien) *(à ajouter si tu veux)*
+> [LinkedIn](https://www.linkedin.com/in/marthaavilas)
+>
+> 
 
 ---
