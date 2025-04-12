@@ -39,7 +39,7 @@ Ce projet vise à **prédire la probabilité de conversion des clients** dans le
 
 ## 💡 Résultats
 
-- Amélioration significative de la prédiction des clients susceptibles de convertir
+- Amélioration significative de la prédiction des clients susceptibles de convertir  précision de 91 % et un F1-score de 0.95 
 - Segmentation précise pour campagnes marketing personnalisées
 - Dashboard interactif pour l’équipe marketing
 
